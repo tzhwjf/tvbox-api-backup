@@ -9,13 +9,6 @@
 
   "about": {
     "domains": [
-      "https://0.wudaozhe.net",
-      "https://0.12yue.de5.net",
-      "https://0.cdz.qzz.io",
-      "https://0.wdzb.eu.cc",
-      "https://tvbox.moliys.icu",
-      "https://ym.120733.xyz",
-      "https://liujin86.ccwu.cc",
       "https://tvthaox.cc.cd"
     ],
     "declaration": "本站接口资源由【误道者】整理。所有资源均来自互联网，版权归原作者所有。仅供测试学习使用，请勿用于违法及商业用途，请勿付费购买。如涉及侵权，请联系删除。",
@@ -45,17 +38,11 @@
   },
 
   "apiDomains": [
-    { "tag": "备份一线", "base": "https://0.wudaozhe.net/tvbox/" },
-    { "tag": "备份二线", "base": "https://0.12yue.de5.net/tvbox/" },
-    { "tag": "备份三线", "base": "https://0.cdz.qzz.io/tvbox/" },
-    { "tag": "备份四线", "base": "https://0.wdzb.eu.cc/tvbox/" }
+    { "tag": "备份一线", "base": "https://tvthaox.cc.cd/tvbox/" }
   ],
 
   "liveDomains": [
-    { "tag": "备份一线", "base": "https://0.wudaozhe.net/tvbox/live/" },
-    { "tag": "备份二线", "base": "https://0.12yue.de5.net/tvbox/live/" },
-    { "tag": "备份三线", "base": "https://0.cdz.qzz.io/tvbox/live/" },
-    { "tag": "备份四线", "base": "https://0.wdzb.eu.cc/tvbox/live/" }
+    { "tag": "备份一线", "base": "https://tvthaox.cc.cd/tvbox/live/" }
   ],
 
   "apiWeights": {
@@ -118,10 +105,7 @@
       "size": "站长推荐",
       "origUrl": "https://0.wudaozhe.net/5/x4.json",
       "urls": [
-        { "label": "备份一线", "url": "https://0.wudaozhe.net/tvbox/X4菠菜园.json" },
-        { "label": "备份二线", "url": "https://0.12yue.de5.net/tvbox/X4菠菜园.json" },
-        { "label": "备份三线", "url": "https://0.cdz.qzz.io/tvbox/X4菠菜园.json" },
-        { "label": "备份四线", "url": "https://0.wdzb.eu.cc/tvbox/X4菠菜园.json" }
+        { "label": "备份一线", "url": "https://tvthaox.cc.cd/tvbox/X4菠菜园.json" }
       ]
     }
   ],
