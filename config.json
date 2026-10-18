@@ -60,13 +60,13 @@
   },
 
   "apiDomains": [
-    { "tag": "备份一线", "base": "https://5.wudaozhe.net" },
-{ "tag": "备份二线", "base": "https://tvthaox.cc.cd" }
+    { "tag": "备份一线", "base": "https://tvthaox.cc.cd/" },
+{ "tag": "备份二线", "base": "https://5.wudaozhe.net/" }
   ],
 
   "liveDomains": [
-    { "tag": "备份一线", "base": "https://5.wudaozhe.net/live/" },
-{ "tag": "备份二线", "base": "https://tvthaox.cc.cd/live" }
+    { "tag": "备份一线", "base": "https://tvthaox.cc.cd/live/" },
+{ "tag": "备份二线", "base": "https://5.wudaozhe.net/live/" }
   ],
 
   "apiWeights": {
